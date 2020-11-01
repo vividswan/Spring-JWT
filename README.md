@@ -1,5 +1,5 @@
 # Spring-JWT-Project
-## Spring Boot(Gradle), JPA(MySQL), java-jwt,commons-codec
+## Spring Boot(Gradle), JPA(MySQL), java-jwt, commons-codec
 - - -
 
 ## 프로젝트 구성
